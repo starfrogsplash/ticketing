@@ -4,9 +4,9 @@ A ticketing app project utilizing micoservice archictecture using kubernetes, an
 
 ## Tech stack
 
-Kubernetes
-Mongo
-Node-nats-streaming
-Typescript
-Next.js
-Docker
+- Kubernetes
+- Mongo
+- Node-nats-streaming
+- Typescript
+- Next.js
+- Docker
