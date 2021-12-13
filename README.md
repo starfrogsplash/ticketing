@@ -10,3 +10,4 @@ A ticketing app project utilizing micoservice archictecture using kubernetes, an
 - Typescript
 - Next.js
 - Docker
+- Jest
